@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Manish Vishe
-- 👀 I’m interested in full stack web devlopment
-- 🌱 I’m currently learning html,css & javascript
-- 📫 How to reach me manishvishe491@gmail.com
+
